@@ -1,0 +1,42 @@
+Python的hasattr() getattr() setattr() 函数使用方法详解
+https://www.cnblogs.com/cenyu/p/5713686.html
+
+
+Python startswith()函数 与 endswith函数
+https://www.cnblogs.com/qianyuliang/p/7491100.html
+
+
+python 内建函数isinstance的用法以及与type的区别http://blog.csdn.net/xsj_blog/article/details/53369653
+
+
+
+
+对于Python中@property的理解和使用
+http://blog.csdn.net/u013205877/article/details/77804137
+
+
+__class__  和type的区别：
+https://blog.bccn.net/静夜思/134
+
+Python命名机制
+https://www.2cto.com/kf/201801/713050.html
+
+
+python类的实例变量和类变量
+https://www.douban.com/note/335390281/
+https://www.cnblogs.com/sherylwang/p/5537778.html
+https://blog.csdn.net/xhw88398569/article/details/48976001
+
+
+
+python中的__all__和__slots__  
+http://leequery.blog.163.com/blog/static/16842209620117184345180/
+
+
+pycharm实现远程代码的调试和开发
+https://www.jianshu.com/p/79df9ac88e96
+http://www.jb51.net/article/127442.htm
+
+
+python字典嵌套字典的情况下获取某个key的value
+https://www.cnblogs.com/hahaweixiaohenqingcheng/archive/2016/11/14/6062961.html
