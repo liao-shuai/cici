@@ -1,42 +1,46 @@
-PythonµÄhasattr() getattr() setattr() º¯ÊıÊ¹ÓÃ·½·¨Ïê½â
+Pythonçš„hasattr() getattr() setattr() å‡½æ•°ä½¿ç”¨æ–¹æ³•è¯¦è§£
 https://www.cnblogs.com/cenyu/p/5713686.html
 
 
-Python startswith()º¯Êı Óë endswithº¯Êı
+Python startswith()å‡½æ•° ä¸ endswithå‡½æ•°
 https://www.cnblogs.com/qianyuliang/p/7491100.html
 
 
-python ÄÚ½¨º¯ÊıisinstanceµÄÓÃ·¨ÒÔ¼°ÓëtypeµÄÇø±ğhttp://blog.csdn.net/xsj_blog/article/details/53369653
+python å†…å»ºå‡½æ•°isinstanceçš„ç”¨æ³•ä»¥åŠä¸typeçš„åŒºåˆ«http://blog.csdn.net/xsj_blog/article/details/53369653
 
 
 
 
-¶ÔÓÚPythonÖĞ@propertyµÄÀí½âºÍÊ¹ÓÃ
+å¯¹äºPythonä¸­@propertyçš„ç†è§£å’Œä½¿ç”¨
 http://blog.csdn.net/u013205877/article/details/77804137
 
 
-__class__  ºÍtypeµÄÇø±ğ£º
-https://blog.bccn.net/¾²Ò¹Ë¼/134
+__class__  å’Œtypeçš„åŒºåˆ«ï¼š
+https://blog.bccn.net/é™å¤œæ€/134
 
-PythonÃüÃû»úÖÆ
+Pythonå‘½åæœºåˆ¶
 https://www.2cto.com/kf/201801/713050.html
 
 
-pythonÀàµÄÊµÀı±äÁ¿ºÍÀà±äÁ¿
+pythonç±»çš„å®ä¾‹å˜é‡å’Œç±»å˜é‡
 https://www.douban.com/note/335390281/
 https://www.cnblogs.com/sherylwang/p/5537778.html
 https://blog.csdn.net/xhw88398569/article/details/48976001
 
 
 
-pythonÖĞµÄ__all__ºÍ__slots__  
+pythonä¸­çš„__all__å’Œ__slots__  
 http://leequery.blog.163.com/blog/static/16842209620117184345180/
 
 
-pycharmÊµÏÖÔ¶³Ì´úÂëµÄµ÷ÊÔºÍ¿ª·¢
+pycharmå®ç°è¿œç¨‹ä»£ç çš„è°ƒè¯•å’Œå¼€å‘
 https://www.jianshu.com/p/79df9ac88e96
 http://www.jb51.net/article/127442.htm
 
+Git åœ¨æœ¬åœ°åˆ›å»ºä¸€ä¸ªREADME.mdæ–‡ä»¶ï¼š
+git pull --rebase origin master
+ç„¶åå†Git push -u origin master
 
-python×ÖµäÇ¶Ì××ÖµäµÄÇé¿öÏÂ»ñÈ¡Ä³¸ökeyµÄvalue
+
+pythonå­—å…¸åµŒå¥—å­—å…¸çš„æƒ…å†µä¸‹è·å–æŸä¸ªkeyçš„value
 https://www.cnblogs.com/hahaweixiaohenqingcheng/archive/2016/11/14/6062961.html
